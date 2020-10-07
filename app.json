@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Lich Viet",
+    "slug": "lich-viet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./static/icons/icon.png",
+    "splash": {
+      "image": "./staic/icons/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./static/icons/favicon.png"
+    }
+  }
+}
